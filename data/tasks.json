@@ -1,0 +1,17 @@
+[
+    {
+        "subject": "Circuits",
+        "day": 1,
+        "completed": false
+    },
+    {
+        "subject": "Python",
+        "day": 1,
+        "completed": false
+    },
+    {
+        "subject": "Math",
+        "day": 2,
+        "completed": false
+    }
+]
